@@ -1,0 +1,3 @@
+Utilizando conceitos de herança, crie uma classe abstrata chamada Idioma com um
+atributo chamado nomeDoIdioma e um método abstrato chamado saudacao() que imprime
+o nome do idioma e uma saudação na tela, em seguida, crie as classes que herdam Idioma

@@ -1,15 +1,15 @@
-                                          import br.com.angeloakm.abstratas.Animal;
-
+import java.util.Scanner;
 
 public class nomeDoIdioma {
 
         public static void main(String[] args) {
-        System.out.println("Ol· Mundo!");
+        System.out.println("Ol√° Mundo!");
         System.out.println("Hello World!");
-        System.out.println("HellÛ Vil·g!");
+        System.out.println("Hell√≥ Vil√°g!");
          System.out.println("Ahoj Svete!");
                                             
     
     
     }
 }
+

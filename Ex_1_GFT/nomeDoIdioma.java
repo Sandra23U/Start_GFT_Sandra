@@ -6,7 +6,7 @@ public class nomeDoIdioma {
         System.out.println("Olá Mundo!");
         System.out.println("Hello World!");
         System.out.println("Helló Világ!");
-         System.out.println("Ahoj Svete!");
+        System.out.println("Ahoj Svete!");
                                             
     
     
